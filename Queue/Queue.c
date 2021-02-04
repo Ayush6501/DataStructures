@@ -1,4 +1,4 @@
-//Program showcasing different operations on a linear queue
+//Program showcasing different operations on a circular queue
 #include "stdio.h"
 
 struct pizza
